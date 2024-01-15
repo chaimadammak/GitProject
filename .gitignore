@@ -5,6 +5,7 @@
 /tmp
 /out-tsc
 /bazel-out
+/*.log
 
 # Node
 /node_modules
@@ -42,4 +43,12 @@ testem.log
 Thumbs.db
 
 .vscode/
+
+# other files 
+package-lock.json
+package.json 
+tsconfig.app.json 
+tsconfig.json
+tsconfig.spec.json
+
 
